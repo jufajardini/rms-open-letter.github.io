@@ -1502,6 +1502,7 @@ Free Software Contributor)
 1. Julian Hofer (GNOME, Deltares)
 1. Julianne "KokaKiwi" Hervier
 1. Julian Sparber (GNOME, Fractal)
+1. Juliana Fajardini Reichow
 1. Julien Cristau (Debian, X.Org, Mozilla)
 1. Julien Humbert
 1. Julien Rabier
